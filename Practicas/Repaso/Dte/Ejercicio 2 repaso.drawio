@@ -1,0 +1,108 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Página-1" id="LphEhReQZ1v9v09lFzsN">
+    <mxGraphModel dx="690" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MLAp4jXdWpGkHfAx802T-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MLAp4jXdWpGkHfAx802T-1" target="MLAp4jXdWpGkHfAx802T-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MLAp4jXdWpGkHfAx802T-1" value="esperando trabajo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MLAp4jXdWpGkHfAx802T-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MLAp4jXdWpGkHfAx802T-2" target="MLAp4jXdWpGkHfAx802T-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MLAp4jXdWpGkHfAx802T-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="345.0000000000002" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MLAp4jXdWpGkHfAx802T-6" value="Se apreto el boton &quot;on/off&quot;/&lt;br&gt;Se habilita el led azul" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="95" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MLAp4jXdWpGkHfAx802T-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MLAp4jXdWpGkHfAx802T-7" target="MLAp4jXdWpGkHfAx802T-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MLAp4jXdWpGkHfAx802T-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MLAp4jXdWpGkHfAx802T-7" target="MLAp4jXdWpGkHfAx802T-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="410" />
+              <mxPoint x="160" y="165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MLAp4jXdWpGkHfAx802T-7" value="imprimiendo trabajo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MLAp4jXdWpGkHfAx802T-9" value="Llega un trabajo/ &lt;br&gt;se enciende led verde,&lt;br&gt;liberar memoria" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="260" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MLAp4jXdWpGkHfAx802T-14" value="Llega un trabajo[hay papel,no hay tinta]/&lt;br&gt;se enciende led rojo,se guar el proceso" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="300" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MLAp4jXdWpGkHfAx802T-15" value="Llega un trabajo[no hay pale,hay tinta]/&lt;br&gt;se enciende led amarillo,se guarda el proceso" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="360" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MLAp4jXdWpGkHfAx802T-20" value="Solucionar problema" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MLAp4jXdWpGkHfAx802T-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.872;entryY=1.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MLAp4jXdWpGkHfAx802T-7" target="MLAp4jXdWpGkHfAx802T-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MLAp4jXdWpGkHfAx802T-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.85;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MLAp4jXdWpGkHfAx802T-20" target="MLAp4jXdWpGkHfAx802T-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MLAp4jXdWpGkHfAx802T-24" value="Se presiona el boton &quot;ok&quot;[Hay tinta y papel]/&lt;br&gt;se recupera el trabajo,se pone leed en verde" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="183" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MLAp4jXdWpGkHfAx802T-26" value="se imprime el trabajo/&lt;br&gt;se paga el led verde" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="260" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MLAp4jXdWpGkHfAx802T-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="MLAp4jXdWpGkHfAx802T-28" parent="1" source="MLAp4jXdWpGkHfAx802T-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="827" y="313" as="sourcePoint" />
+            <mxPoint x="877" y="263" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MLAp4jXdWpGkHfAx802T-28" value="" style="ellipse;shadow=0;fillColor=default;gradientColor=none;gradientDirection=radial;" vertex="1" parent="1">
+          <mxGeometry x="910" y="255" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MLAp4jXdWpGkHfAx802T-29" value="" style="ellipse;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="912.5" y="260" width="25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MLAp4jXdWpGkHfAx802T-30" value="se presion boton &quot;on/off&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="762.5" y="240" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MLAp4jXdWpGkHfAx802T-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="MLAp4jXdWpGkHfAx802T-34" parent="1" source="MLAp4jXdWpGkHfAx802T-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="555" as="sourcePoint" />
+            <mxPoint x="420" y="505" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MLAp4jXdWpGkHfAx802T-34" value="" style="ellipse;shadow=0;fillColor=default;gradientColor=none;gradientDirection=radial;" vertex="1" parent="1">
+          <mxGeometry x="365" y="530" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MLAp4jXdWpGkHfAx802T-35" value="" style="ellipse;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="535" width="25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MLAp4jXdWpGkHfAx802T-36" value="Se apreta el boton &quot;on/off&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="460" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MLAp4jXdWpGkHfAx802T-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="MLAp4jXdWpGkHfAx802T-39" parent="1" source="MLAp4jXdWpGkHfAx802T-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="165" as="sourcePoint" />
+            <mxPoint x="570" y="125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MLAp4jXdWpGkHfAx802T-39" value="" style="ellipse;shadow=0;fillColor=default;gradientColor=none;gradientDirection=radial;" vertex="1" parent="1">
+          <mxGeometry x="610" y="150" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MLAp4jXdWpGkHfAx802T-40" value="" style="ellipse;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="612.5" y="155" width="25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MLAp4jXdWpGkHfAx802T-41" value="Se apreta el boton &quot;on/off&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="135" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

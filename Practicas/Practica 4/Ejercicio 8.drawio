@@ -1,0 +1,178 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Página-1" id="OW1GQu3qMRHpk_mgaTNQ">
+    <mxGraphModel dx="3474" dy="1730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XHDHRXTBv_TUD5YDlftG-1" target="XHDHRXTBv_TUD5YDlftG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XHDHRXTBv_TUD5YDlftG-1" target="XHDHRXTBv_TUD5YDlftG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-1" value="Mostrando pantalla inicial de busqueda" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XHDHRXTBv_TUD5YDlftG-2" target="XHDHRXTBv_TUD5YDlftG-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="130" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-4" value="Se selecciona la opcion&amp;nbsp;&lt;br&gt;&amp;nbsp;&quot;ir a destino&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" y="180" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XHDHRXTBv_TUD5YDlftG-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-69.99989827473928" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-5" value="Mostrando los ultimos 5 lugares buscados" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="430" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XHDHRXTBv_TUD5YDlftG-6" target="XHDHRXTBv_TUD5YDlftG-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-6" value="esperando la calle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-8" value="Se selecciona &quot;ultimos encontrados&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="280" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-10" value="Se selecciona nuevo destino&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="270" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XHDHRXTBv_TUD5YDlftG-11" target="XHDHRXTBv_TUD5YDlftG-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-11" value="Esperando altura" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-13" value="se selecciono &quot;siguiente&quot;[campo calle es valido]/&lt;br&gt;mostrar la pantalla altura,mostrar boton confirmar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="725" y="460" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="XHDHRXTBv_TUD5YDlftG-14" target="XHDHRXTBv_TUD5YDlftG-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-14" value="Buscar direccion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-16" value="Se selecciono &quot;confirmar&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="590" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.205;exitY=-0.012;exitDx=0;exitDy=0;entryX=0.424;entryY=1.026;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="XHDHRXTBv_TUD5YDlftG-11" target="XHDHRXTBv_TUD5YDlftG-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-19" value="Termina la busqueda[no se encontro &lt;br&gt;direccion]/informa el error" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="403" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="XHDHRXTBv_TUD5YDlftG-25" target="XHDHRXTBv_TUD5YDlftG-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1000.3333333333335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-25" value="Navegando" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="970" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XHDHRXTBv_TUD5YDlftG-27" target="XHDHRXTBv_TUD5YDlftG-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-27" value="Esperando seleccion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-30" value="Se termina la busqueda[se encuentra la direccion]/ &lt;br&gt;se muestra el mapa de ruta con las opciones &quot;ir &quot;o &quot;cancelar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="810" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-31" value="se seleeciona el lugar a donde se quiere ir /&lt;br&gt;se muestra el mapa de ruta con las opciones &quot;ir&quot; o &quot;cancelar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="580" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XHDHRXTBv_TUD5YDlftG-27" target="XHDHRXTBv_TUD5YDlftG-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="740" as="sourcePoint" />
+            <mxPoint x="80" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-35" value="Se seleccion la opcion &quot;cancelar&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-54.8;" vertex="1" parent="1">
+          <mxGeometry x="30" y="555" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="1012" as="sourcePoint" />
+            <mxPoint x="181" y="1012" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-38" value="Esperando señal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-39" value="se selecciona la opcion &quot;ir&quot;/&lt;br&gt;&amp;nbsp;se inicia el contador" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="965" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-40" value="El gps pierde señal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="953" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-41" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.952;entryY=0.911;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XHDHRXTBv_TUD5YDlftG-25" target="XHDHRXTBv_TUD5YDlftG-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="1080" as="sourcePoint" />
+            <mxPoint x="180" y="1040" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="1070" />
+              <mxPoint x="210" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-42" value="Transcurre un segundo/se actualiza ubicacion&lt;br&gt;&amp;nbsp;gerografica,la velocidad,distancia y tiempo restante" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1060" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-48" value="se selecciono &quot;detener destino&quot;/&lt;br&gt;se vuelve a lapantalla de inicio" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="1050" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" target="XHDHRXTBv_TUD5YDlftG-50" parent="1" source="XHDHRXTBv_TUD5YDlftG-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="1080" as="sourcePoint" />
+            <mxPoint x="230" y="1145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-50" value="" style="ellipse;shadow=0;fillColor=default;gradientColor=none;gradientDirection=radial;" vertex="1" parent="1">
+          <mxGeometry x="105" y="1101" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-51" value="" style="ellipse;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="107.5" y="1106" width="25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" target="XHDHRXTBv_TUD5YDlftG-53" parent="1" source="XHDHRXTBv_TUD5YDlftG-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="116" y="945" as="sourcePoint" />
+            <mxPoint x="166" y="895" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-53" value="" style="ellipse;shadow=0;fillColor=default;gradientColor=none;gradientDirection=radial;" vertex="1" parent="1">
+          <mxGeometry x="125" y="870" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-54" value="" style="ellipse;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="127.5" y="875" width="25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-55" value="se termina la navegacion/detener contador del tiempo,&lt;br&gt;retornar mensaje de &quot;destino alcanzado&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="135" y="913" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-58" value="Se recupera la señal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="218" y="1005" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-61" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.88;entryY=0.076;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XHDHRXTBv_TUD5YDlftG-38" target="XHDHRXTBv_TUD5YDlftG-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="900" as="sourcePoint" />
+            <mxPoint x="840" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1650" y="620" />
+              <mxPoint x="620" y="850" />
+              <mxPoint x="1340" y="340" />
+              <mxPoint x="1570" y="420" />
+              <mxPoint x="1030" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHDHRXTBv_TUD5YDlftG-62" value="Trasncurren 3 minutos/detener contador ,cancelar navegacion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="865" width="350" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
